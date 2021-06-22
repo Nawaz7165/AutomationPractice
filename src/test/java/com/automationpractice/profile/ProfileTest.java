@@ -18,7 +18,7 @@ import com.automationpractice.framework.UI;
 
 public class ProfileTest extends TestBase{
 	
-	
+	//
 	@Test
 	public void Update_name_in_User_Profile() {
 		
